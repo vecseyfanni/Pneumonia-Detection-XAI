@@ -89,7 +89,7 @@ pneumonia_xray.ipynb
 ## Credits
 
 * Grad-CAM implementation inspiration:
-  https://medium.com/@tanishqsardana/visualizing-how-cnn-thinks-cam-grad-cam-grad-cam-1dabcf886cc5
+https://medium.com/@tanishqsardana/visualizing-how-cnn-thinks-cam-grad-cam-grad-cam-1dabcf886cc5
 
 * This project was developed with the assistance of AI tools for:
 
