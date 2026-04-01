@@ -36,14 +36,19 @@ https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 After downloading:
 - Extract the dataset
-- Place it in your Google Drive or in a local `data/` folder
 
+### Running in Google Colab
+- Upload the dataset to Google Drive
+- Update the path in the notebook accordingly
+
+### Running locally
+- Place the dataset in a `data/` folder
 Expected structure:
 
 chest_xray/
-├── train/
-├── val/
-└── test/
+- train/
+- val/
+- test/
 
 ---
 
