@@ -101,4 +101,5 @@ pneumonia_xray.ipynb
 
 ## Notes
 
-When running in Google Colab, the dataset is copied from Google Drive to local runtime (`/content`) for faster training performance.
+* Results may slightly vary between runs due to randomness in training and data augmentation.
+* When running in Google Colab, the dataset is copied from Google Drive to local runtime (`/content`) for faster training performance.
